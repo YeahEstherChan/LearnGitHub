@@ -1,1 +1,2 @@
 This is the first code on github!
+if you dont wanna push it up,please delete it
